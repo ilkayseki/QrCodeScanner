@@ -3,4 +3,4 @@
 
 ✨ This project was a great opportunity to dive into Unity game development and explore its capabilities in creating practical applications. I'm thrilled to share my creation with you all, and I hope it comes in handy for your everyday tasks.
 
-🔗 Feel free to check it out and download it [link] to start scanning QR codes effortlessly. Your feedback and support mean the world to me, so please let me know what you think! Thank you for being a part of my journey. 🙌 #QRCodeScanner #UnityDevelopment #AndroidApp
+🔗 Feel free to check it out and download it to start scanning QR codes effortlessly. Your feedback and support mean the world to me, so please let me know what you think! Thank you for being a part of my journey. 🙌 #QRCodeScanner #UnityDevelopment #AndroidApp
